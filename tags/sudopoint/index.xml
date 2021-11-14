@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sudopoint on ssaraf</title>
+    <link>https://ssaraf.com/tags/sudopoint/</link>
+    <description>Recent content in sudopoint on ssaraf</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ssaraf.com/tags/sudopoint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open source vs paid software</title>
+      <link>https://ssaraf.com/2020/5_hours_a_week/</link>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/2020/5_hours_a_week/</guid>
+      <description>This morning there was a very interesting post on Hacker News about an open source developer named Marak. Marak declared that he would do no more work on his project, because he was sick of &amp;ldquo;supporting Fortune 500 companies with free work&amp;rdquo;. Open source As far as I know, the genesis of open source software started with Eric Raymond (of Hacker&amp;rsquo;s Dictionary fame) and Linus Torvalds (of Linux and Git).</description>
+    </item>
+    
+    <item>
+      <title>Gaining Leverage</title>
+      <link>https://ssaraf.com/2020/gaining_leverage/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/2020/gaining_leverage/</guid>
+      <description>Everyone knows that it&amp;rsquo;s easier to open a door the farther away you are from the hinge. The distance between the hinge and the handle is the &amp;ldquo;radius&amp;rdquo; which directly affects the &amp;ldquo;torque&amp;rdquo; you can apply. This principle is why longer wrenches are easier to turn, and longer arms throw baseballs faster. Colloquially we describe this as **leverage **- the same amount of force goes a lot farther because of the way in which the force is applied.</description>
+    </item>
+    
+    <item>
+      <title>You should probably be writing more</title>
+      <link>https://ssaraf.com/2020/write_more/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/2020/write_more/</guid>
+      <description>One of the biggest pieces of feedback I get from this blog is on the frequency and consistency of the posts: roughly 2000 words, every Monday morning. So I thought I&amp;rsquo;d spend this week&amp;rsquo;s post talking about my general process of writing.
+My history This is not my first attempt at writing for an audience. You can still see posts from my old blog, I wrote occasionally for school newspapers, and I write a LONG &amp;ldquo;Happy New Year&amp;rdquo; email to friends &amp;amp; family every year.</description>
+    </item>
+    
+    <item>
+      <title>On Links</title>
+      <link>https://ssaraf.com/2020/on_links/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/2020/on_links/</guid>
+      <description>Traditionally, the way to get to a webpage to via a search engine, a social network, or an aggregator like reddit. But there isn&amp;rsquo;t really a reason why these should be the only ways, and I think the web is suffering because of it.
+The original idea of the internet is that ordinary people could build a webpage like this:
+&amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;title&amp;gt;My first website&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; Hello world! Here&#39;s a link to a cool thing: &amp;lt;a href=&amp;quot;http://www.</description>
+    </item>
+    
+    <item>
+      <title>How to make time</title>
+      <link>https://ssaraf.com/2020/how_to_make_time/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/2020/how_to_make_time/</guid>
+      <description>Sudopoint is &amp;ldquo;feature complete&amp;rdquo; now - it includes a marketing website, landing page, this blog, the application, the database that backs it, an email system, payments integration, support for user-defined custom functions, support for downloading arbitrarily large datasets, a beta API layer, etc.
+Okay maybe I&amp;rsquo;m bragging. I&amp;rsquo;m proud, alright? It took me a long time to build, and there aren&amp;rsquo;t that many folks who&amp;rsquo;ve managed to build something end-to-end while having a full time job.</description>
+    </item>
+    
+    <item>
+      <title>Talking to users like a girl scout</title>
+      <link>https://ssaraf.com/2020/girl_scout/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/2020/girl_scout/</guid>
+      <description>Let&amp;rsquo;s assume you&amp;rsquo;ve created something that you think is the bee&amp;rsquo;s knees. How do you get people to take a look at it?
+Girl scouts The average girl scout sells about 200 boxes of cookies over the course of an 8 week season. For most fledgling companies, 200 paying users is nothing to sneeze at. So even if you think you&amp;rsquo;re more capable than elementary school girls, the evidence suggests you have a lot to learn.</description>
+    </item>
+    
+    <item>
+      <title>The Keynesian Workweek</title>
+      <link>https://ssaraf.com/2020/keynesian_workweek/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/2020/keynesian_workweek/</guid>
+      <description>Pawn shops I don&amp;rsquo;t really understand buying complex assets like stocks or bonds. But I understand knick knacks, so we&amp;rsquo;ll start there.
+Let&amp;rsquo;s say you want to buy a trinket from a pawn shop and sell it to someone else. Everybody knows that, unless you&amp;rsquo;re very lucky, you aren&amp;rsquo;t going to be able to find a price equal to what you paid. The &amp;ldquo;spread&amp;rdquo; on your trinket is the difference between what you can sell it for (say, $10) and what you can buy it for (say, $20).</description>
+    </item>
+    
+    <item>
+      <title>How to get something working even when software hates you</title>
+      <link>https://ssaraf.com/2020/software-is-the-worst/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/2020/software-is-the-worst/</guid>
+      <description>A lot of folks I talk to are trying to start projects, but don&amp;rsquo;t really know how to get started or what&amp;rsquo;s involved. A comprehensive guide for creating applications is far too long for a post like this, but I thought I&amp;rsquo;d step back and explain the meta-process that I go through to get a project running.
+Assumption: Software sucks. Here&amp;rsquo;s something that engineers and 85 year old grandmas have in common: they know that software is always broken.</description>
+    </item>
+    
+    <item>
+      <title>Building a software product on 5 hours a week</title>
+      <link>https://ssaraf.com/2020/5_hours_a_week/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/2020/5_hours_a_week/</guid>
+      <description>I know that many folks out there (including you, don&amp;rsquo;t lie) are dreamers. You want a creation that not just makes a difference, but is yours. You could make something, put out your shingle, and let people pay you money for it.
+Most of us will fail in that ambition. Certainly I have so far. But now that I&amp;rsquo;ve managed to build a complete product I thought I&amp;rsquo;d capture some of the lessons I learned along the way.</description>
+    </item>
+    
+  </channel>
+</rss>

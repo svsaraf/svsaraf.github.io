@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ssaraf</title>
+    <link>https://ssaraf.com/posts/</link>
+    <description>Recent content in Posts on ssaraf</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ssaraf.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open source vs paid software</title>
+      <link>https://ssaraf.com/2020/5_hours_a_week/</link>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/2020/5_hours_a_week/</guid>
+      <description>This morning there was a very interesting post on Hacker News about an open source developer named Marak. Marak declared that he would do no more work on his project, because he was sick of &amp;ldquo;supporting Fortune 500 companies with free work&amp;rdquo;. Open source As far as I know, the genesis of open source software started with Eric Raymond (of Hacker&amp;rsquo;s Dictionary fame) and Linus Torvalds (of Linux and Git).</description>
+    </item>
+    
+    <item>
+      <title>Gaining Leverage</title>
+      <link>https://ssaraf.com/2020/gaining_leverage/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/2020/gaining_leverage/</guid>
+      <description>Everyone knows that it&amp;rsquo;s easier to open a door the farther away you are from the hinge. The distance between the hinge and the handle is the &amp;ldquo;radius&amp;rdquo; which directly affects the &amp;ldquo;torque&amp;rdquo; you can apply. This principle is why longer wrenches are easier to turn, and longer arms throw baseballs faster. Colloquially we describe this as **leverage **- the same amount of force goes a lot farther because of the way in which the force is applied.</description>
+    </item>
+    
+    <item>
+      <title>You should probably be writing more</title>
+      <link>https://ssaraf.com/2020/write_more/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/2020/write_more/</guid>
+      <description>One of the biggest pieces of feedback I get from this blog is on the frequency and consistency of the posts: roughly 2000 words, every Monday morning. So I thought I&amp;rsquo;d spend this week&amp;rsquo;s post talking about my general process of writing.
+My history This is not my first attempt at writing for an audience. You can still see posts from my old blog, I wrote occasionally for school newspapers, and I write a LONG &amp;ldquo;Happy New Year&amp;rdquo; email to friends &amp;amp; family every year.</description>
+    </item>
+    
+    <item>
+      <title>On Links</title>
+      <link>https://ssaraf.com/2020/on_links/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/2020/on_links/</guid>
+      <description>Traditionally, the way to get to a webpage to via a search engine, a social network, or an aggregator like reddit. But there isn&amp;rsquo;t really a reason why these should be the only ways, and I think the web is suffering because of it.
+The original idea of the internet is that ordinary people could build a webpage like this:
+&amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;title&amp;gt;My first website&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; Hello world! Here&#39;s a link to a cool thing: &amp;lt;a href=&amp;quot;http://www.</description>
+    </item>
+    
+    <item>
+      <title>How to make time</title>
+      <link>https://ssaraf.com/2020/how_to_make_time/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/2020/how_to_make_time/</guid>
+      <description>Sudopoint is &amp;ldquo;feature complete&amp;rdquo; now - it includes a marketing website, landing page, this blog, the application, the database that backs it, an email system, payments integration, support for user-defined custom functions, support for downloading arbitrarily large datasets, a beta API layer, etc.
+Okay maybe I&amp;rsquo;m bragging. I&amp;rsquo;m proud, alright? It took me a long time to build, and there aren&amp;rsquo;t that many folks who&amp;rsquo;ve managed to build something end-to-end while having a full time job.</description>
+    </item>
+    
+    <item>
+      <title>Talking to users like a girl scout</title>
+      <link>https://ssaraf.com/2020/girl_scout/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/2020/girl_scout/</guid>
+      <description>Let&amp;rsquo;s assume you&amp;rsquo;ve created something that you think is the bee&amp;rsquo;s knees. How do you get people to take a look at it?
+Girl scouts The average girl scout sells about 200 boxes of cookies over the course of an 8 week season. For most fledgling companies, 200 paying users is nothing to sneeze at. So even if you think you&amp;rsquo;re more capable than elementary school girls, the evidence suggests you have a lot to learn.</description>
+    </item>
+    
+    <item>
+      <title>The Keynesian Workweek</title>
+      <link>https://ssaraf.com/2020/keynesian_workweek/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/2020/keynesian_workweek/</guid>
+      <description>Pawn shops I don&amp;rsquo;t really understand buying complex assets like stocks or bonds. But I understand knick knacks, so we&amp;rsquo;ll start there.
+Let&amp;rsquo;s say you want to buy a trinket from a pawn shop and sell it to someone else. Everybody knows that, unless you&amp;rsquo;re very lucky, you aren&amp;rsquo;t going to be able to find a price equal to what you paid. The &amp;ldquo;spread&amp;rdquo; on your trinket is the difference between what you can sell it for (say, $10) and what you can buy it for (say, $20).</description>
+    </item>
+    
+    <item>
+      <title>How to get something working even when software hates you</title>
+      <link>https://ssaraf.com/2020/software-is-the-worst/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/2020/software-is-the-worst/</guid>
+      <description>A lot of folks I talk to are trying to start projects, but don&amp;rsquo;t really know how to get started or what&amp;rsquo;s involved. A comprehensive guide for creating applications is far too long for a post like this, but I thought I&amp;rsquo;d step back and explain the meta-process that I go through to get a project running.
+Assumption: Software sucks. Here&amp;rsquo;s something that engineers and 85 year old grandmas have in common: they know that software is always broken.</description>
+    </item>
+    
+    <item>
+      <title>Building a software product on 5 hours a week</title>
+      <link>https://ssaraf.com/2020/5_hours_a_week/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/2020/5_hours_a_week/</guid>
+      <description>I know that many folks out there (including you, don&amp;rsquo;t lie) are dreamers. You want a creation that not just makes a difference, but is yours. You could make something, put out your shingle, and let people pay you money for it.
+Most of us will fail in that ambition. Certainly I have so far. But now that I&amp;rsquo;ve managed to build a complete product I thought I&amp;rsquo;d capture some of the lessons I learned along the way.</description>
+    </item>
+    
+    <item>
+      <title>The power of names</title>
+      <link>https://ssaraf.com/2019/power_of_names/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/2019/power_of_names/</guid>
+      <description>The power of names is really interesting to me. Sometimes it seems like concepts that previously were muddled become much more simple to understand once you give it a unique set of phonemes that others can reference.
+I&amp;rsquo;ll give an example from work recently. A few weeks ago I was given an assignment that was rather broad in scope. It was unclear (and is still unclear, as of this writing) exactly what the eventual product will look like.</description>
+    </item>
+    
+    <item>
+      <title>Minimize the distance from idea to execution</title>
+      <link>https://ssaraf.com/2018/idea_to_execution/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/2018/idea_to_execution/</guid>
+      <description>My company is getting more and more &amp;lsquo;political&amp;rsquo;. If you wanted to do something new, you used to have to spend weeks getting the proper permissions / sign offs from the relevant leadership, ensure they were bought in to the vision of your project, talk to the resourcing team to make sure you had the critical materials and personnel, talk to legal to ensure they wouldn&amp;rsquo;t block you later, etc.</description>
+    </item>
+    
+    <item>
+      <title>Problems and solutions</title>
+      <link>https://ssaraf.com/2018/problems_and_solutions/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/2018/problems_and_solutions/</guid>
+      <description>Something I&amp;rsquo;ve noticed recently is that problems become a lot easier to solve if you describe them in detail. That is, attempting to solve a vague, multi-faceted issue is practically impossible, but cutting it down to a set of discrete problems seems to make it much more digestible. Part of this is, no doubt, that we make things more tangible, but I think there&amp;rsquo;s more to it that that.
+Why is it, for instance, that the solved problems in a particular field of study are well known, but it&amp;rsquo;s not obvious what the unsolved problems are?</description>
+    </item>
+    
+    <item>
+      <title>Get bored</title>
+      <link>https://ssaraf.com/2018/get_bored/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/2018/get_bored/</guid>
+      <description>I&amp;rsquo;ve been thinking and talking about side projects for a long time. Now is the first time I&amp;rsquo;ve shipped something that 1) actually works and 2) has at least a snowball&amp;rsquo;s chance of becoming something people use.
+Why is that? I now get bored.
+I didn&amp;rsquo;t used to. It always felt like there was an infinite number of things to read on the internet and an infinite number of TV shows to watch.</description>
+    </item>
+    
+    <item>
+      <title>Momentum equals habit</title>
+      <link>https://ssaraf.com/2018/momentum_equals_habit/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/2018/momentum_equals_habit/</guid>
+      <description>Novices to finance are always amazed at how powerful compound interest is. Once they become aware, it becomes much easier to explain why they should pay off high interest loans as quickly as possible, and not keep too much cash lying around that isn&amp;rsquo;t gathering interest.
+But people are always slow / hesitant to apply the same knowledge to other aspects of their lives. Regular, steady contributions (even mediocre ones) will outgrow and crush the sprinters.</description>
+    </item>
+    
+    <item>
+      <title>Side projects</title>
+      <link>https://ssaraf.com/2018/side_projects/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/2018/side_projects/</guid>
+      <description>Over the past couple months I&amp;rsquo;ve been declaring all of my side projects to my current employer. It&amp;rsquo;s been a very interesting experience, because, strictly speaking, I don&amp;rsquo;t work for them as an engineer.
+Joel Spolsky has written an interesting note about side projects. His main thesis is that, from a legal perspective, employers have to try to own all inventions by engineers, to protect themselves when they seek future liquidity (say, in an IPO or major investment round).</description>
+    </item>
+    
+    <item>
+      <title>Holding it all in your head</title>
+      <link>https://ssaraf.com/2018/holding_in_your_head/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/2018/holding_in_your_head/</guid>
+      <description>Something I&amp;rsquo;ve noticed when working on larger programming projects is that my ability to add new code depends on what stage of the project I&amp;rsquo;m at. Early on, the code comes out fast. However, as time goes on and the project gets bigger, I find that it takes me up to an hour to &amp;ldquo;load the program into my head&amp;rdquo; before I can begin to add new features.
+Good code is read most often by the writer, not by the computer.</description>
+    </item>
+    
+    <item>
+      <title>Be tangible</title>
+      <link>https://ssaraf.com/2018/be_tangible/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/2018/be_tangible/</guid>
+      <description>Something that I see again and again is mistaking imprecision for wisdom. For instance, if I asked you: &amp;ldquo;go out and get 10 more users&amp;rdquo;, that&amp;rsquo;s a tangible, easy to understand goal. If I tell you, &amp;ldquo;we need to increase penetration of our software&amp;rdquo;, then you have to add a translation step to try interpret the meaning of what I&amp;rsquo;m saying (do I mean add more users or add more time per user?</description>
+    </item>
+    
+    <item>
+      <title>A Modern Olympia Academy</title>
+      <link>https://ssaraf.com/2018/olympia_academy/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/2018/olympia_academy/</guid>
+      <description>At work I get the pleasure of being able to have direct discussions with remarkably smart people. How are our conversations different from normal conversations, say with acquaintances? They appear to be oriented towards truth finding rather than opinion sermoning.
+It takes a degree of humility to say that you don&amp;rsquo;t know the answer to something. Certainly if I look over my social media today, the people who are most confident in what they believe tend not to be the brightest, or the most knowledgeable.</description>
+    </item>
+    
+    <item>
+      <title>Human knowledge</title>
+      <link>https://ssaraf.com/2018/human_knowledge/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/2018/human_knowledge/</guid>
+      <description>It took Newton the better part of 3 years to &amp;lsquo;invent&amp;rsquo; calculus. [1] He is considered to be one of the brightest mathematical minds to have ever lived. Yet most 17 year olds today are capable of mastering the same calculus he did. Why is that?
+It&amp;rsquo;s almost too obvious to say - it&amp;rsquo;s easier to learn something than it is to imagine it. More interestingly, there seems to be a kind of inflation with learning.</description>
+    </item>
+    
+  </channel>
+</rss>
