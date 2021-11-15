@@ -6,33 +6,10 @@
     <description>Recent content in Tags on ssaraf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ssaraf.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>side projects</title>
-      <link>https://ssaraf.com/tags/side-projects/</link>
-      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ssaraf.com/tags/side-projects/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Tue, 10 Nov 2020 00:00:00 +0000</lastBuildDate>
     
-    <item>
-      <title>sudopoint</title>
-      <link>https://ssaraf.com/tags/sudopoint/</link>
-      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ssaraf.com/tags/sudopoint/</guid>
-      <description></description>
-    </item>
+	<atom:link href="https://ssaraf.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>philosophy</title>
-      <link>https://ssaraf.com/tags/philosophy/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ssaraf.com/tags/philosophy/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
