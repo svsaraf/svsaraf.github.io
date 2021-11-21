@@ -24,10 +24,26 @@
       
       <guid>https://ssaraf.com/about/</guid>
       <description>&lt;p&gt;Hi there! I&amp;rsquo;m Sanjay.&lt;/p&gt;
-&lt;p&gt;I grew up in Lake Charles, Louisiana, studied at Stanford, and now work on the product team at Benchling, where I spend most of my time on data products. Previously I was at Palantir, where I focused on healthcare and bio customers, but touched a few other industries, including oil &amp;amp; gas, insurance, and shipping.&lt;/p&gt;
-&lt;p&gt;I have some experience in data, mechanical engineering, medicine, biophysics, molecular biology, and computer science. I tend to pick up little hobbies (acoustic guitar, stand-up comedy) and put them down again. In person I&amp;rsquo;m a big jokester, and love to laugh. Over zoom I do my best robot impression.&lt;/p&gt;
-&lt;p&gt;I now live in San Francisco, CA. I look like this:&lt;/p&gt;
+&lt;p&gt;I grew up in Lake Charles, Louisiana, studied at Stanford, and now work in the tech industry. I started my career at Palantir, where I focused on healthcare and bio customers, but touched a few other industries, including oil &amp;amp; gas, insurance, and shipping.&lt;/p&gt;
+&lt;p&gt;Now I work on the product team at Benchling, where I spend most of my time on data products. I also run a few side businesses while working full time.&lt;/p&gt;
+&lt;p&gt;In person I&amp;rsquo;m a big jokester, and love to laugh. Over zoom I do my best robot impression.&lt;/p&gt;
+&lt;p&gt;I live in San Francisco, California. I look like this:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://ssaraf.com/paris_pic.jpg&#34; alt=&#34;Picture from Paris 2016&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Thanks for reading!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Products</title>
+      <link>https://ssaraf.com/products/</link>
+      <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/products/</guid>
+      <description>&lt;p&gt;I like to run profitable side businesses while working full time. Most people reading this blog got here from interactions with these businesses.&lt;/p&gt;
+&lt;h2 id=&#34;sudopoint-sudopointcomhttpssudopointcom&#34;&gt;Sudopoint (&lt;a href=&#34;https://sudopoint.com/&#34;&gt;sudopoint.com&lt;/a&gt;)&lt;/h2&gt;
+&lt;p&gt;Sudopoint is a web platform for generating test datasets, primarily for software testers and demo&amp;rsquo;ers. We provide a no-code platform where users can buy datasets or pay a monthly subscription.&lt;/p&gt;
+&lt;h2 id=&#34;getting-started-with-sql-newlinecohttpsnewlineco&#34;&gt;Getting Started with SQL (&lt;a href=&#34;https://newline.co&#34;&gt;newline.co&lt;/a&gt;)&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m writing a book on how to get started with PostgreSQL with Newline, a modern &amp;ldquo;O&amp;rsquo;Reilly like&amp;rdquo; publishing platform.&lt;/p&gt;
 </description>
     </item>
     
