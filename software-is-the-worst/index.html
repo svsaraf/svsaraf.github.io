@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+  <meta http-equiv="content-type" content="text/html;charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noodp"/>
+  
+  
+  
+  
+  
+  <link rel="prev" href="https://ssaraf.com/5_hours_a_week/" />
+  <link rel="next" href="https://ssaraf.com/keynesian_workweek/" />
+  <script defer data-domain="ssaraf.com" src="https://plausible.io/js/plausible.js"></script>
+  <link rel="canonical" href="https://ssaraf.com/software-is-the-worst/" />
+  <link rel='shortcut icon' type='image/x-icon' href='/favicon.ico' />
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="google-site-verification" content="QasNAmwQUjj9XauzqCRuxf-gTK-e2ujgo4c3fwvDRX4" />
+  <title>
+       
+       
+           How to get something working even when software hates you | ssaraf
+       
+  </title>
+  <meta name="title" content="How to get something working even when software hates you | ssaraf">
+    
+  
+  <link rel="stylesheet" href="/font/iconfont.css">
+  <link rel="stylesheet" href="/css/main.min.css">
+
+
+  <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="How to get something working even when software hates you"/>
+<meta name="twitter:description" content="A lot of folks I talk to are trying to start projects, but don&rsquo;t really know how to get started or what&rsquo;s involved. A comprehensive guide for creating applications is far too long for a post like this, but I thought I&rsquo;d step back and explain the meta-process that I go through to get a project running.
+Assumption: Software sucks. Here&rsquo;s something that engineers and 85 year old grandmas have in common: they know that software is always broken."/>
+
+  <script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "headline": "How to get something working even when software hates you",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https:\/\/ssaraf.com\/software-is-the-worst\/"
+  },
+  
+  "genre": "posts",
+  "keywords": "side projects, sudopoint",
+  "wordcount":  2086 ,
+  "url": "https:\/\/ssaraf.com\/software-is-the-worst\/",
+  "datePublished": "2020-08-24T00:00:00\u002b00:00",
+  "dateModified": "2020-08-24T00:00:00\u002b00:00",
+  
+  
+  "author": {
+    "@type": "Person",
+    "name": "Sanjay Saraf"
+  },
+  "description": ""
+}
+</script>
+</head>
+
+  
+
+
+
+  <body class="">
+    <div class="wrapper">
+        <nav class="navbar">
+    <div class="container">
+        <div class="navbar-header header-logo">
+        	<a href="https://ssaraf.com">ssaraf</a>
+        </div>
+        <div class="menu navbar-right">
+                
+                
+                <a class="menu-item" href="/about" title="">About</a>
+                
+                <a class="menu-item" href="/posts/" title="">Writing</a>
+                
+                <a class="menu-item" href="/products" title="">Products</a>
+                
+                <a href="javascript:void(0);" class="theme-switch"><i class="iconfont icon-sun"></i></a>&nbsp;
+        </div>
+    </div>
+</nav>
+<nav class="navbar-mobile" id="nav-mobile" style="display: none">
+     <div class="container">
+        <div class="navbar-header">
+            <div>  <a href="javascript:void(0);" class="theme-switch"><i class="iconfont icon-sun"></i></a>&nbsp;<a href="https://ssaraf.com">ssaraf</a></div>
+            <div class="menu-toggle">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+     
+          <div class="menu" id="mobile-menu">
+                
+                
+                <a class="menu-item" href="/about" title="">About</a>
+                
+                <a class="menu-item" href="/posts/" title="">Writing</a>
+                
+                <a class="menu-item" href="/products" title="">Products</a>
+                
+        </div>
+    </div>
+</nav>
+
+    	 <main class="main">
+          <div class="container">
+      		
+<article class="post-warp">
+    <header class="post-header">
+        <h1 class="post-title">How to get something working even when software hates you</h1>
+        <div class="post-meta">
+            Written by <a href="https://ssaraf.com" rel="author">Sanjay Saraf</a> with ♥ 
+                <span class="post-time">
+                    on <time datetime=2020-08-24 >24 August 2020</time>
+                </span>
+                 
+        </div>
+    </header>
+    <div class="post-content">
+        
+
+        
+
+        
+        
+     
+          
+          
+          
+
+          
+          
+          
+
+          <p>A lot of folks I talk to are trying to start projects, but don&rsquo;t really know how to get started or what&rsquo;s involved. A comprehensive guide for creating applications is far too long for a post like this, but I thought I&rsquo;d step back and explain the meta-process that I go through to get a project running.</p>
+<h3 id="assumption-software-sucks">Assumption: Software sucks.</h3>
+<p>Here&rsquo;s something that engineers and 85 year old grandmas have in common: they know that software is always broken. Computers, when given the choice, will typically do the dumbest thing that is possible to do. Software engineering is therefore an exercise in defining very precise rules for where the electrons can go, and it&rsquo;s still almost impossible to ship software that doesn&rsquo;t end up breaking catastrophically in some way.</p>
+<p>Don&rsquo;t believe me? Pick an application. Open it, and see how long you last before something goes wrong. Most software won&rsquo;t make it obvious that it screwed up - it&rsquo;ll do things like make you repeat whatever you just did, or force you to click in a slightly different spot. And I&rsquo;m sure many of you have acquired a Stockholm-syndrome-like acceptance that in real life if you use a fork it will always poke things and a hanger will always hang things but sometimes if you click on the Chrome button it&rsquo;ll just bounce and then do absolutely nothing while gazing at you with its one weird eyeball.</p>
+<h3 id="developer-environment">Developer environment</h3>
+<p>Okay, so let&rsquo;s say you&rsquo;re ready to create something. For now I&rsquo;ll assume that it&rsquo;s a web application, but these steps are the same, if not worse, if you&rsquo;re developing for Windows, iPhones, etc.</p>
+<p>The first problem is that the only way to create software is by <em>using</em> software, which means anytime you hit problems, you&rsquo;re never sure if your particular issue is related to the software <em>you&rsquo;re building</em> or the software *you&rsquo;re using. *This issue comes up most commonly when you first start configuring your machine so you can write code effectively.</p>
+<p>While it&rsquo;s theoretically possible to write code by opening up your version of Notepad and typing a few things, no one does it that way anymore. The typical steps are something like:</p>
+<ol>
+<li>Set up a &ldquo;sandbox&rdquo; in which you can install all the dependencies that your code will rely on.</li>
+<li>Install a bunch of dependencies into that sandbox.</li>
+<li>Configure some type of program that helps you write code.</li>
+<li>Start writing code in such a way that it relies on the sandbox&rsquo;ed stuff in the code-writing program of choice.</li>
+<li>Try running the code</li>
+</ol>
+<p>Note that steps 1-3 are not directly related to the software you want to build, and in a non-trivial number of my own projects (probably 90% of them when I was just starting out, but as much as 10% now) I end up hitting bugs or flaws in the process such that I <em>don&rsquo;t actually get to step 4 even after prolonged work.</em></p>
+<p>For example, python ships <a href="https://stackoverflow.com/questions/41573587/what-is-the-difference-between-venv-pyvenv-pyenv-virtualenv-virtualenvwrappe">with at least 6 different ways</a> of creating &ldquo;virtual environments&rdquo; for sandboxing. That&rsquo;s ignoring a couple of other ways to do it, including what happens to be <a href="https://docs.docker.com/get-started/">the most popular way today</a>. Each approach you take has quirks / bugs / issues which are often but not always addressed by various StackOverflow posts, documentation, or personal debugging.</p>
+<p>Beginners constantly trip on this - they need to fix code written by other people before they&rsquo;ve even written lines of their own. It doesn&rsquo;t help that error messages are usually terrible or not indicative of the specific problem. Many of the errors are actually from other applications you&rsquo;ve installed, for instance.</p>
+<p>Even if beginners do end up finding solutions to these issues, their fixes are often slightly incorrect. They end up in a brittle state and don&rsquo;t understand why their code falls over constantly when no one else&rsquo;s seems to.</p>
+<p>Effectively novices to programming are like novices to cars - looking under the hood is a scary thing and even if you get from point A to B you don&rsquo;t really understand what&rsquo;s happening from first principles. When I talk to experts, this problem doesn&rsquo;t get better - if anything it gets worse. At least in cars there is some level at which you can trust that the thing you&rsquo;re using (like a solid steel beam) is probably going to work like most steel beams and be pretty reliable, but there is almost no level of abstraction in software where you can have the same confidence.</p>
+<p>You would think, of course, that rather than give everyone a broken down jalopy to start with, we could just give everyone working cars and let them start coding - but that&rsquo;s a pipedream and it doesn&rsquo;t exist. Every time a talented software engineer tries to make a better starting car it just transmogrifies into some weird thing for everyone else, which sometimes has more problems than if the engineer had done nothing at all. Or it&rsquo;s some kind of toy which can&rsquo;t be used to build real stuff. You only have to work at a large company a few weeks and see how they set up <em>their</em> dev environment (which, remember, they have a monetary incentive to make easy) to realize how broken this is.</p>
+<p>Programmers seem to regard this as some kind of law of nature, in that each one is willing to jump through all kinds of ridiculous hoops just to get the first line of code up and running. &ldquo;Hello World&rdquo; is the famed starting place for many programs, but the real thing it&rsquo;s measuring is whether you&rsquo;re set up correctly.</p>
+<p>This is also why many smart engineers are <a href="https://www.youtube.com/watch?v=svEuG_ekNT0">pathologically afraid</a> of software that solves <a href="https://www.npr.org/sections/thetwo-way/2016/05/26/479588478/report-u-s-nuclear-system-relies-on-outdated-technology-such-as-floppy-disks">technically straightforward but societally important</a><a href="https://time.com/4261796/tim-cook-transcript/">problems</a>. It&rsquo;s just too easy for it to be broken, sometimes by hackers but usually because software is always broken in some way, and all you can do is try to reduce the downside risk of breakage or <a href="https://en.wikipedia.org/wiki/Permissive_Action_Link">add something more reliable</a> to guarantee safety.</p>
+<p>There are no obvious solutions, but my approach is to use as little of other people&rsquo;s software as possible. For instance, I set up the minimal version of a sandbox that I know works and is straightforward for me to debug. I use a package manager that I&rsquo;ve used 100 times before, and I only install libraries which a sufficient number of people have vetted and run themselves. It&rsquo;s only in this manner that I can cut the number of workflow breaking experiences to 10%, but it&rsquo;s always a close call.</p>
+<p>You would think that this would be a common sense approach, but it actually isn&rsquo;t. It&rsquo;s apparently normal for folks to install a whole bunch of crap they don&rsquo;t really use, because that&rsquo;s what the tutorial says, and then find that they&rsquo;re stuck debugging code that&rsquo;s useless for their project. Just to pick a specific example, I load javascript files from a CDN, because it&rsquo;s both faster and easier to debug, but so many people have been trapped in <a href="https://blog.appsignal.com/2020/04/09/ride-down-the-javascript-dependency-hell.html">NPM dependency management</a> that it&rsquo;s become a <a href="https://xkcd.com/2347/">joke</a>.</p>
+<h3 id="writing-your-program">Writing your program</h3>
+<p>When it comes to writing your code you face a new problem: there&rsquo;s precious few practical tutorials about how to build something real. Instead, what exists on the internet today are predominantly lessons on how to build 1) toy programs, usually built in a weird way to make them seem simple or trivial, but rapidly break down when complexity is added or 2) extraordinarily complex programs, usually built in a weird way to support dozens of programmers at large organizations. Both of these are basically useless, since what you&rsquo;re building is something in between. It&rsquo;s not *just *a <a href="https://medium.com/@deallen7/how-to-build-a-todo-app-in-rails-e6571fcccac3">todo list app</a>, it might include user management, relatively complex calculations etc., but it definitely isn&rsquo;t some gargantuan project that needs <a href="https://endler.dev/2019/maybe-you-dont-need-kubernetes/">&ldquo;big&rdquo; infrastructure</a>.  </p>
+<p>By the way, it&rsquo;s possible that better tutorials exist, but it&rsquo;s impossible to find them. I generally discover links using an aggregator (Reddit, HN, Lobsters, etc) or Google. Effectively both surface the most popular articles measured by either votes or links, but since the largest population of engineers are either 1) trying to play with a new thing or 2) working at a big company, the articles you get mostly cater to those two groups. Anything else you get is some flavor of SEO spam (or as some call it, <a href="https://blog.hubspot.com/marketing/content-marketing">content marketing</a>)- shallow writing that doesn&rsquo;t actually talk about anything, with the hope that search engines will rank it higher. Since the keywords <em>you</em> use will often be similar to the more popular stuff, there isn&rsquo;t really a way for Google to know that it&rsquo;s doing a bad job.</p>
+<p>I suspect that Goodhart&rsquo;s law has weakened PageRank (or whatever special sauce Google uses) and probably is an opening for a new approach to search that doesn&rsquo;t incentivize <a href="https://neilpatel.com/blog/commandments-of-internal-linking/">writing and linking lots of random garbage</a>.</p>
+<p>So you&rsquo;ve built your project - now what? Now you have to deploy it.</p>
+<h3 id="putting-bits-on-the-internet">Putting bits on the internet</h3>
+<p>There exist a variety of tools to deploy your software to the world, but again we see a hole in the market (or at least we saw one historically) for the startup founder / small company builder, who doesn&rsquo;t want to spend a ton of time on dev ops using AWS but needs more than a rudimentary shared hosting setup. <a href="/p/bcc6db34-596e-44b6-8223-d32e6fa5478b/sudopoint.com">Sudopoint</a> is deployed on Heroku, for example, but at one point was deployed on Webfaction, PythonAnywhere, and AWS, mostly to general frustration.</p>
+<p>The main problem is that the core skill set for building an application is usually different from deploying it. In Sudopoint&rsquo;s case, static assets (like CSS or JS) need to be served differently than the rest of the application, the production database is slightly different, environment variables are changed, etc. If I&rsquo;m at all representative of the general programming population, there are an order of magnitude more projects that work perfectly well sitting on my laptop, but I didn&rsquo;t bother to deploy to the world because of the pain / annoyance involved. As usual, these projects have now gone stale and it&rsquo;s unclear if they could ever be deployed, just a sunk cost of learning to build things.</p>
+<p>The only suggestion I have here is to start with a skeleton project that is known for being deployed easily to one of these services, and then rewrite / adjust your application to fit the template. An apt metaphor is removing an appendage because your coat doesn&rsquo;t have enough sleeves, but it&rsquo;s often easier to change what you understand than to try to change what you don&rsquo;t.</p>
+<h3 id="optimization">Optimization</h3>
+<p>When you first deploy your app, it&rsquo;s going to be slow. Not slow like the way gmail is slow, where it&rsquo;s obviously doing a whole bunch of stuff and your browser just can&rsquo;t keep up for a couple seconds. By slow I mean, you have a little &ldquo;Hello World' page with almost nothing in it, and it takes 15 seconds to load on your fiber connection.</p>
+<p>Most computer scientists understand Big O notation. It&rsquo;s how we measure what types of algorithms are likely to be slower than others. Unfortunately in matters of web applications (and indeed, for most applications today) Big O notation is not only useless, but <em>worse</em>, because by paying attention to it you&rsquo;ll optimize the wrong things, and as we know, <a href="https://wiki.c2.com/?PrematureOptimization">premature optimization</a> is the root of all evil.</p>
+<p>What do I mean? At Sudopoint, we were seeing slow load times, and the reason had <em>nothing</em> to do with the complexity of the computations we were doing, at least at the code level we were working at. Instead, in order, the problems were:</p>
+<ol>
+<li>Database inserts and reads without indexes</li>
+<li>Unoptimized image, CSS, and JS assets</li>
+<li>Using SQLite instead of Postgres</li>
+<li>Shared hosting instead of more dedicated hosting</li>
+<li>Lacking a CDN</li>
+</ol>
+<p>From my <a href="https://danluu.com/octopress-speedup/">research</a>, our application was not unique in this respect. Most of these were ascertained with a profiler or with something like <a href="https://www.webpagetest.org/">webpagetest</a> but <em>none</em> of them would have been caught with &ldquo;classic&rdquo; computer science training. Instead it was mostly a matter of putting lots of print statements and simply watching the machine as it went along, and see where it spent a lot of unnecessary time.</p>
+<p><em>That&rsquo;s</em> the main reason why you should eschew complexity in what you&rsquo;re building. It&rsquo;s not that getting something working using complex architecture is impossible - it&rsquo;ll just take longer. The problem is that if you don&rsquo;t understand every part of the architecture you&rsquo;re using, you won&rsquo;t be able to <a href="https://www.pitt.edu/~jdnorton/Goodies/Chasing_the_light/">&ldquo;fly alongside the wave&rdquo;</a> to figure out what it&rsquo;s doing.</p>
+
+    </div>
+
+    <div class="post-copyright">
+             
+            <p class="copyright-item">
+                <span>Author:</span>
+                <span>Sanjay Saraf </span>
+                </p>
+            
+           
+            <p class="copyright-item">
+                    <span>Words:</span>
+                   <span>2086</span>
+            </p>
+            
+            <p class="copyright-item">
+                
+            </p>
+
+             
+            <p class="copyright-item">
+                Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>
+            </p>
+            
+    </div>
+
+  
+    <div class="post-tags">
+        
+            <section>
+            <i class="iconfont icon-icon-tag"></i>Tag: 
+            
+            <span class="tag"><a href="https://ssaraf.com/tags/side-projects/">
+                    #side projects</a></span>
+            
+            <span class="tag"><a href="https://ssaraf.com/tags/sudopoint/">
+                    #sudopoint</a></span>
+            
+            </section>
+        
+        <section>
+                <a href="javascript:window.history.back();">Back</a></span> · 
+                <span><a href="https://ssaraf.com">Home</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav">
+        
+        <a href="https://ssaraf.com/5_hours_a_week/" class="prev" rel="prev" title="Building a software product on 5 hours a week"><i class="iconfont icon-dajiantou"></i>&nbsp;Building a software product on 5 hours a week</a>
+         
+        
+        <a href="https://ssaraf.com/keynesian_workweek/" class="next" rel="next" title="The Keynesian Workweek">The Keynesian Workweek&nbsp;<i class="iconfont icon-xiaojiantou"></i></a>
+        
+    </div>
+
+    <div class="post-comment">
+          
+          
+
+ 
+
+          
+    </div>
+</article>
+          </div>
+		   </main>
+      <footer class="footer">
+    <div class="copyright">
+        &copy;
+        
+        <span itemprop="copyrightYear">2017 - 2021</span>
+        
+         
+            <span class="author" itemprop="copyrightHolder"><a href="https://ssaraf.com">Sanjay Saraf</a> | </span>
+         
+
+		  <span>Crafted with ❤️ by <a href="https://github.com/Fastbyte01/KeepIt" target="_blank" rel="external nofollow noopener noreffer">KeepIt</a> & <a href="https://gohugo.io/" target="_blank" rel="external nofollow noopener noreffer">Hugo</a></span>
+    </div>
+</footer>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    <script src="/js/vendor_no_gallery.min.js" async=""></script>
+    
+  
+
+
+
+
+
+
+
+     </div>
+  </body>
+</html>

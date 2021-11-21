@@ -13,10 +13,10 @@
     
     <item>
       <title>Open source vs paid software</title>
-      <link>https://ssaraf.com/2020/5_hours_a_week/</link>
+      <link>https://ssaraf.com/5_hours_a_week/</link>
       <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ssaraf.com/2020/5_hours_a_week/</guid>
+      <guid>https://ssaraf.com/5_hours_a_week/</guid>
       <description>&lt;p&gt;There was a &lt;a href=&#34;https://news.ycombinator.com/item?id=25032105&#34;&gt;very interesting post&lt;/a&gt; on Hacker News about an open source developer named Marak. Marak declared that he would do no more work on his project, because he was sick of &amp;ldquo;supporting Fortune 500 companies with free work&amp;rdquo;.  &lt;/p&gt;
 &lt;h3 id=&#34;open-source&#34;&gt;Open source&lt;/h3&gt;
 &lt;p&gt;As far as I know, the genesis of open source software started with Eric Raymond (of Hacker&amp;rsquo;s Dictionary fame) and Linus Torvalds (of Linux and Git).&lt;/p&gt;
@@ -46,10 +46,10 @@
     
     <item>
       <title>Gaining Leverage</title>
-      <link>https://ssaraf.com/2020/gaining_leverage/</link>
+      <link>https://ssaraf.com/gaining_leverage/</link>
       <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ssaraf.com/2020/gaining_leverage/</guid>
+      <guid>https://ssaraf.com/gaining_leverage/</guid>
       <description>&lt;p&gt;Everyone knows that it&amp;rsquo;s easier to open a door the farther away you are from the hinge. The distance between the hinge and the handle is the &amp;ldquo;radius&amp;rdquo; which directly affects the &amp;ldquo;torque&amp;rdquo; you can apply. This principle is why longer wrenches are easier to turn, and longer arms throw baseballs faster. Colloquially we describe this as **leverage **- the same amount of force goes a lot farther because of the way in which the force is applied.&lt;/p&gt;
 &lt;p&gt;Recently I&amp;rsquo;ve been obsessed with the idea of leverage in working life - are there situations where the same amount of effort causes outsized positive effects?&lt;/p&gt;
 &lt;h3 id=&#34;meeting&#34;&gt;Meeting&lt;/h3&gt;
@@ -88,10 +88,10 @@
     
     <item>
       <title>You should probably be writing more</title>
-      <link>https://ssaraf.com/2020/write_more/</link>
+      <link>https://ssaraf.com/write_more/</link>
       <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ssaraf.com/2020/write_more/</guid>
+      <guid>https://ssaraf.com/write_more/</guid>
       <description>&lt;p&gt;One of the biggest pieces of feedback I get from this blog is on the frequency and consistency of the posts: roughly 2000 words, every Monday morning. So I thought I&amp;rsquo;d spend this week&amp;rsquo;s post talking about my general process of writing.&lt;/p&gt;
 &lt;h3 id=&#34;my-history&#34;&gt;My history&lt;/h3&gt;
 &lt;p&gt;This is not my first attempt at writing for an audience. You can still see posts from my old &lt;a href=&#34;https://ssaraf.com/p/5e72b787-3d78-449a-95e0-1358ba16cd44/ssaraf.com&#34;&gt;blog&lt;/a&gt;, I wrote occasionally for &lt;a href=&#34;https://medium.com/stanfordreview/a-10-000-stanford-degree-eef1a0ae480f&#34;&gt;school newspapers&lt;/a&gt;, and I write a LONG &amp;ldquo;Happy New Year&amp;rdquo; email to friends &amp;amp; family every year. I always loved writing, but I did it fairly rarely. And even now, I&amp;rsquo;m not exactly productive - most professional authors can get &lt;a href=&#34;https://www.goodreads.com/quotes/49619-i-like-to-get-ten-pages-a-day-which-amounts&#34;&gt;2000 words a day&lt;/a&gt; (7x my pace).&lt;/p&gt;
@@ -141,10 +141,10 @@
     
     <item>
       <title>On Links</title>
-      <link>https://ssaraf.com/2020/on_links/</link>
+      <link>https://ssaraf.com/on_links/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ssaraf.com/2020/on_links/</guid>
+      <guid>https://ssaraf.com/on_links/</guid>
       <description>&lt;p&gt;Traditionally, the way to get to a webpage to via a search engine, a social network, or an aggregator like reddit. But there isn&amp;rsquo;t really a reason why these should be the only ways, and I think the web is suffering because of it.&lt;/p&gt;
 &lt;p&gt;The original idea of the internet is that ordinary people could build a webpage like this:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;&amp;lt;html&amp;gt;
@@ -197,10 +197,10 @@
     
     <item>
       <title>How to make time</title>
-      <link>https://ssaraf.com/2020/how_to_make_time/</link>
+      <link>https://ssaraf.com/how_to_make_time/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ssaraf.com/2020/how_to_make_time/</guid>
+      <guid>https://ssaraf.com/how_to_make_time/</guid>
       <description>&lt;p&gt;Sudopoint is &amp;ldquo;feature complete&amp;rdquo; now - it includes a marketing website, landing page, this blog, the application, the database that backs it, an email system, payments integration, support for user-defined custom functions, support for downloading arbitrarily large datasets, a beta API layer, etc.&lt;/p&gt;
 &lt;p&gt;Okay maybe I&amp;rsquo;m bragging. I&amp;rsquo;m proud, alright? It took me a long time to build, and there aren&amp;rsquo;t that many folks who&amp;rsquo;ve managed to build something end-to-end &lt;em&gt;while&lt;/em&gt; having a full time job.&lt;/p&gt;
 &lt;p&gt;Even though I&amp;rsquo;ve already talked through some tactics for &lt;a href=&#34;https://ssaraf.com/how-to-build-a-software-company-on-5-hours-a-week/&#34;&gt;building something while working&lt;/a&gt;, I thought I&amp;rsquo;d spend some time on my own personal productivity tips for getting things done.&lt;/p&gt;
@@ -273,10 +273,10 @@ High Pri: Schedule meetings with 5 people for &amp;gt; 1 week out, 15 min&lt;/p&
     
     <item>
       <title>Talking to users like a girl scout</title>
-      <link>https://ssaraf.com/2020/girl_scout/</link>
+      <link>https://ssaraf.com/girl_scout/</link>
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ssaraf.com/2020/girl_scout/</guid>
+      <guid>https://ssaraf.com/girl_scout/</guid>
       <description>&lt;p&gt;Let&amp;rsquo;s assume you&amp;rsquo;ve created something that &lt;em&gt;you&lt;/em&gt; think is the bee&amp;rsquo;s knees. How do you get people to take a look at it?&lt;/p&gt;
 &lt;h3 id=&#34;girl-scouts&#34;&gt;Girl scouts&lt;/h3&gt;
 &lt;p&gt;The average girl scout sells about &lt;a href=&#34;https://priceonomics.com/the-greatest-girl-scout-cookie-salesperson-ever/&#34;&gt;200&lt;/a&gt; boxes of cookies over the course of an 8 week season. For most fledgling companies, 200 paying users is nothing to sneeze at. So even if you think you&amp;rsquo;re more capable than elementary school girls, the evidence suggests you have a lot to learn.&lt;/p&gt;
@@ -323,10 +323,10 @@ High Pri: Schedule meetings with 5 people for &amp;gt; 1 week out, 15 min&lt;/p&
     
     <item>
       <title>The Keynesian Workweek</title>
-      <link>https://ssaraf.com/2020/keynesian_workweek/</link>
+      <link>https://ssaraf.com/keynesian_workweek/</link>
       <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ssaraf.com/2020/keynesian_workweek/</guid>
+      <guid>https://ssaraf.com/keynesian_workweek/</guid>
       <description>&lt;h3 id=&#34;pawn-shops&#34;&gt;Pawn shops&lt;/h3&gt;
 &lt;p&gt;I don&amp;rsquo;t really understand buying complex assets like stocks or bonds. But I understand knick knacks, so we&amp;rsquo;ll start there.&lt;/p&gt;
 &lt;p&gt;Let&amp;rsquo;s say you want to buy a trinket from a pawn shop and sell it to someone else. Everybody knows that, unless you&amp;rsquo;re very lucky, you aren&amp;rsquo;t going to be able to find a price equal to what you paid. The &amp;ldquo;spread&amp;rdquo; on your trinket is the difference between what you can sell it for (say, $10) and what you can buy it for (say, $20).&lt;/p&gt;
@@ -381,10 +381,10 @@ High Pri: Schedule meetings with 5 people for &amp;gt; 1 week out, 15 min&lt;/p&
     
     <item>
       <title>How to get something working even when software hates you</title>
-      <link>https://ssaraf.com/2020/software-is-the-worst/</link>
+      <link>https://ssaraf.com/software-is-the-worst/</link>
       <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ssaraf.com/2020/software-is-the-worst/</guid>
+      <guid>https://ssaraf.com/software-is-the-worst/</guid>
       <description>&lt;p&gt;A lot of folks I talk to are trying to start projects, but don&amp;rsquo;t really know how to get started or what&amp;rsquo;s involved. A comprehensive guide for creating applications is far too long for a post like this, but I thought I&amp;rsquo;d step back and explain the meta-process that I go through to get a project running.&lt;/p&gt;
 &lt;h3 id=&#34;assumption-software-sucks&#34;&gt;Assumption: Software sucks.&lt;/h3&gt;
 &lt;p&gt;Here&amp;rsquo;s something that engineers and 85 year old grandmas have in common: they know that software is always broken. Computers, when given the choice, will typically do the dumbest thing that is possible to do. Software engineering is therefore an exercise in defining very precise rules for where the electrons can go, and it&amp;rsquo;s still almost impossible to ship software that doesn&amp;rsquo;t end up breaking catastrophically in some way.&lt;/p&gt;
@@ -437,10 +437,10 @@ High Pri: Schedule meetings with 5 people for &amp;gt; 1 week out, 15 min&lt;/p&
     
     <item>
       <title>Building a software product on 5 hours a week</title>
-      <link>https://ssaraf.com/2020/5_hours_a_week/</link>
+      <link>https://ssaraf.com/5_hours_a_week/</link>
       <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ssaraf.com/2020/5_hours_a_week/</guid>
+      <guid>https://ssaraf.com/5_hours_a_week/</guid>
       <description>&lt;p&gt;I know that many folks out there (including you, don&amp;rsquo;t lie) are dreamers. You want a creation that not just makes a difference, but is yours. You could make something, put out your shingle, and let people pay you money for it.&lt;/p&gt;
 &lt;p&gt;Most of us will fail in that ambition. Certainly I have so far. But now that I&amp;rsquo;ve managed to build a complete product I thought I&amp;rsquo;d capture some of the lessons I learned along the way. This is probably most useful for &amp;ldquo;bootstrapped&amp;rdquo; tech startups, not big companies or lemonade stands or coffee shops, but who am I to stop the friendly reader?&lt;/p&gt;
 &lt;h3 id=&#34;are-you-a-developer-if-not-become-one&#34;&gt;Are you a developer? If not, become one.&lt;/h3&gt;
