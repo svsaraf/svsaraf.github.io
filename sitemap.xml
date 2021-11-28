@@ -2,9 +2,9 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://ssaraf.com/building_a_personal_brand/</loc>
+      <loc>https://ssaraf.com/categories/</loc>
       
-      <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+      <lastmod>2021-11-28T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -16,9 +16,9 @@
     </url>
   
     <url>
-      <loc>https://ssaraf.com/categories/</loc>
+      <loc>https://ssaraf.com/crypto_in_the_cave/</loc>
       
-      <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+      <lastmod>2021-11-28T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -32,7 +32,7 @@
     <url>
       <loc>https://ssaraf.com/categories/op-ed/</loc>
       
-      <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+      <lastmod>2021-11-28T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -46,7 +46,7 @@
     <url>
       <loc>https://ssaraf.com/posts/</loc>
       
-      <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+      <lastmod>2021-11-28T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -60,7 +60,7 @@
     <url>
       <loc>https://ssaraf.com/</loc>
       
-      <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+      <lastmod>2021-11-28T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -74,7 +74,7 @@
     <url>
       <loc>https://ssaraf.com/tags/</loc>
       
-      <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+      <lastmod>2021-11-28T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -87,6 +87,20 @@
   
     <url>
       <loc>https://ssaraf.com/tags/writing/</loc>
+      
+      <lastmod>2021-11-28T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://ssaraf.com/building_a_personal_brand/</loc>
       
       <lastmod>2021-11-21T00:00:00+00:00</lastmod>
       
