@@ -9,6 +9,201 @@
     <atom:link href="https://ssaraf.com/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Fractional Work</title>
+      <link>https://ssaraf.com/fractional-work/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/fractional-work/</guid>
+      <description>&lt;h1 id=&#34;motivation&#34;&gt;Motivation&lt;/h1&gt;
+&lt;p&gt;This file contains the outline for my book project of 2022. My previous book project of 2021 was a book about PostgreSQL, but I felt it was unsuccessful for a few reasons:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I agreed to split the profits of the book 50 / 50 with a &amp;ldquo;self publisher&amp;rdquo; called Newline. And while Newline probably would have been helpful to write the book, they only help towards the tail end, once the book is actually written, with marketing, sales, cover design, etc. Since they like to use their branding for their books, it just didn&amp;rsquo;t feel like my own project the same way. I would have preferred to write a book more appealing to generalists / analysts rather than one focused on a technical subject, with branding controlled by me.&lt;/li&gt;
+&lt;li&gt;Technical books are really boring to write. I think I can put together pretty good prose - I can make jokes, etc. But I couldn&amp;rsquo;t find a way to inject my personality into the writing.&lt;/li&gt;
+&lt;li&gt;I started managing people at work, so wasn&amp;rsquo;t very much SQL day to day, like I used to.&lt;/li&gt;
+&lt;li&gt;I was embarrassed to talk about it with friends.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The next book will resolve those problems the following ways:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I will self publish via Gumroad / KDP&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;ll inject my personality into the book. In the spirit of Derek Sivers / Will Larsen, I will provide book chapters &amp;ldquo;serially&amp;rdquo; (that is, they&amp;rsquo;ll all be available online, and I&amp;rsquo;ll post one chapter at a time)&lt;/li&gt;
+&lt;li&gt;I no longer manage people.&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;m already talking about this subject with everyone I know.&lt;/li&gt;
+&lt;li&gt;Bonus: I&amp;rsquo;m thinking of starting a company in this direction.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;numbers&#34;&gt;Numbers&lt;/h1&gt;
+&lt;p&gt;Typical book length is 360 pages. Stephen King does 6 pages a day, roughly 200 words a page, so 1200 words a day. Others do up to 2k. If my velocity is 500 words a day (400 after edits), that translates to 2 pages, or 180 days (about 6 months). To get it done in 30 days (say, month of June before getting married), that would require 13 pages a day, or 2600 words a day. If I want to procrastinate, I write a blog post. So write every day, but depending on what you write the standard is different. My guess is the blog posts will really start getting out the door. Jeremy managed to write his book in 4 months, which translates to 120 days, which means 3 pages a day - half of Stephen King&amp;rsquo;s pace. Use Jeremy&amp;rsquo;s strategy of &amp;ldquo;vomit draft&amp;rdquo;. I think Gladwell books are much shorter - roughly 200 pages.&lt;/p&gt;
+&lt;h1 id=&#34;strategy&#34;&gt;Strategy&lt;/h1&gt;
+&lt;p&gt;Remember to use Ira Glass&amp;rsquo;s strategy - anecdote, then lesson, anecdote then lesson, anecdote then lesson, etc. That&amp;rsquo;s what makes a story interesting.&lt;/p&gt;
+&lt;h1 id=&#34;ideas-for-anecdotes&#34;&gt;Ideas for anecdotes&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Whoever originally negotiated the 40 hour week. Find their story - who were they, why did they need it, what motivated them?&lt;/li&gt;
+&lt;li&gt;Post WW2 CEO on why provide benfits to companies. Find their story - strugglig to hire talent, so infantlizing them by providing benefits instead of cash.&lt;/li&gt;
+&lt;li&gt;A modern day gig worker, who works several part time jobs to amke ends meet. How part time work is often used as a weapon against the lower class.&lt;/li&gt;
+&lt;li&gt;The ACTUAL study about utility in income. How much is lower vs higher? Why?&lt;/li&gt;
+&lt;li&gt;Daniel Vassallo - get an interview with him or with members of SPC? Small bets thesis and why it can work&lt;/li&gt;
+&lt;li&gt;A software engineer who successfully negotiated a 4 day work week.&lt;/li&gt;
+&lt;li&gt;A CEO who is against the 4 day work week and why&lt;/li&gt;
+&lt;li&gt;A scientist / psychologist about efficient work. Are we made for variety?&lt;/li&gt;
+&lt;li&gt;Why people live longer, another scientist story from other countries where the work week is more reasonable.&lt;/li&gt;
+&lt;li&gt;Stay at home moms, who get bored and want to work but either have to choose one or another&lt;/li&gt;
+&lt;li&gt;Original source on Keynesian work week&lt;/li&gt;
+&lt;li&gt;Rich people and how they pay to get time back - so why not pay your employer for extra time?&lt;/li&gt;
+&lt;li&gt;Anecdote relating to deconsolidation that Paul Graham talks about. Find the source, and write about that.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;outline---assume-5---10-page-chapters-one-chapter-a-day&#34;&gt;Outline - assume 5 - 10 page chapters. One chapter a day.&lt;/h1&gt;
+&lt;p&gt;Chapter 1&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Title&lt;/li&gt;
+&lt;li&gt;Anecdote&lt;/li&gt;
+&lt;li&gt;Lesson&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Chapter 2&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Title&lt;/li&gt;
+&lt;li&gt;Anecdote&lt;/li&gt;
+&lt;li&gt;Lesson&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Chapter 3&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Title&lt;/li&gt;
+&lt;li&gt;Anecdote&lt;/li&gt;
+&lt;li&gt;Lesson&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Chapter 4&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Title&lt;/li&gt;
+&lt;li&gt;Anecdote&lt;/li&gt;
+&lt;li&gt;Lesson&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Chapter 5&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Title&lt;/li&gt;
+&lt;li&gt;Anecdote&lt;/li&gt;
+&lt;li&gt;Lesson&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Chapter 6&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Title&lt;/li&gt;
+&lt;li&gt;Anecdote&lt;/li&gt;
+&lt;li&gt;Lesson&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Chapter 7&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Title&lt;/li&gt;
+&lt;li&gt;Anecdote&lt;/li&gt;
+&lt;li&gt;Lesson&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Chapter 8&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Title&lt;/li&gt;
+&lt;li&gt;Anecdote&lt;/li&gt;
+&lt;li&gt;Lesson&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Chapter 9&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Title&lt;/li&gt;
+&lt;li&gt;Anecdote&lt;/li&gt;
+&lt;li&gt;Lesson&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Chapter 10&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Title&lt;/li&gt;
+&lt;li&gt;Anecdote&lt;/li&gt;
+&lt;li&gt;Lesson&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Chapter 11&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Title&lt;/li&gt;
+&lt;li&gt;Anecdote&lt;/li&gt;
+&lt;li&gt;Lesson&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Chapter 12&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Title&lt;/li&gt;
+&lt;li&gt;Anecdote&lt;/li&gt;
+&lt;li&gt;Lesson&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Chapter 13&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Title&lt;/li&gt;
+&lt;li&gt;Anecdote&lt;/li&gt;
+&lt;li&gt;Lesson&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Chapter 14&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Title&lt;/li&gt;
+&lt;li&gt;Anecdote&lt;/li&gt;
+&lt;li&gt;Lesson&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Chapter 15&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Title&lt;/li&gt;
+&lt;li&gt;Anecdote&lt;/li&gt;
+&lt;li&gt;Lesson&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;cont&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Post Ideas</title>
+      <link>https://ssaraf.com/post-ideas/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/post-ideas/</guid>
+      <description>&lt;h4 id=&#34;places-to-post&#34;&gt;Places to post:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Hacker News&lt;/li&gt;
+&lt;li&gt;Relevant subreddits (which ones?)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;general-ideas&#34;&gt;General Ideas&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Never submit a job application&lt;/li&gt;
+&lt;li&gt;The future of work is fractional&lt;/li&gt;
+&lt;li&gt;Why full time jobs have benefits&lt;/li&gt;
+&lt;li&gt;Never charge per hour&lt;/li&gt;
+&lt;li&gt;How to do taxes as a software contractor&lt;/li&gt;
+&lt;li&gt;How to find your first contracts&lt;/li&gt;
+&lt;li&gt;Stints at companies are shrinking&lt;/li&gt;
+&lt;li&gt;Macgyver tricks I like&lt;/li&gt;
+&lt;li&gt;Markets are not efficient&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;lessons-from-palantir&#34;&gt;Lessons from Palantir&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Submerge yourself in the customer&lt;/li&gt;
+&lt;li&gt;Give leeway to make decisions to the lowest person&lt;/li&gt;
+&lt;li&gt;Trust the smart noob&lt;/li&gt;
+&lt;li&gt;How to be a &amp;ldquo;deployment strategist&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Being a technical PM can be a rate limiter&lt;/li&gt;
+&lt;li&gt;Meeting Report culture&lt;/li&gt;
+&lt;li&gt;Internal transparency&lt;/li&gt;
+&lt;li&gt;Dots&lt;/li&gt;
+&lt;li&gt;How to build a cult&lt;/li&gt;
+&lt;li&gt;Building SAAS flows in a consultancy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;lessons-from-palantir-customers&#34;&gt;Lessons from Palantir customers&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;lessons-from-benchling&#34;&gt;Lessons from Benchling&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Organizations have Alzheimer&amp;rsquo;s - no memory&lt;/li&gt;
+&lt;li&gt;Strategy vs product&lt;/li&gt;
+&lt;li&gt;On middle management&lt;/li&gt;
+&lt;li&gt;Building consultant flows at a SAAS company&lt;/li&gt;
+&lt;li&gt;Acquisitions of software products&lt;/li&gt;
+&lt;li&gt;Build it vs integrated it (Insights)&lt;/li&gt;
+&lt;li&gt;The current world of data infrastructure&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;lessons-from-benchling-customers&#34;&gt;Lessons from Benchling customers&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Posts</title>
       <link>https://ssaraf.com/posts/</link>
       <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
@@ -23,11 +218,9 @@
       <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ssaraf.com/about/</guid>
-      <description>&lt;p&gt;I grew up in Lake Charles, Louisiana, studied at Stanford, and now work in the tech industry. I started my career at Palantir, where I focused on healthcare and bio customers, but touched a few other industries, including oil &amp;amp; gas, insurance, and shipping.&lt;/p&gt;
-&lt;p&gt;Now I work on the product team at Benchling, where I spend most of my time on data products. I also run a few side businesses while working full time.&lt;/p&gt;
-&lt;p&gt;In person I&amp;rsquo;m a big jokester, and love to laugh. Over zoom I do my best robot impression.&lt;/p&gt;
-&lt;p&gt;I live in San Francisco, California. I look like this:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ssaraf.com/paris_pic.jpg&#34; alt=&#34;Picture from Paris 2016&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;I grew up in Lake Charles, Louisiana, studied at Stanford, and now work in the tech industry.&lt;/p&gt;
+&lt;p&gt;I started my career at &lt;a href=&#34;https://www.palantir.com&#34;&gt;Palantir&lt;/a&gt;, where I focused on healthcare and biotech customers. Now I work on the product team at &lt;a href=&#34;https://www.benchling.com&#34;&gt;Benchling&lt;/a&gt;, where I spend time on our Insights, Machine Learning, Assays, Lab Automation, and Data Infrastructure products. I also run a few side projects while working full time.&lt;/p&gt;
+&lt;p&gt;In person I&amp;rsquo;m a big jokester, and love to laugh. I live in San Francisco, California.&lt;/p&gt;
 &lt;p&gt;Thanks for reading!&lt;/p&gt;
 </description>
     </item>
@@ -38,9 +231,9 @@
       <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ssaraf.com/products/</guid>
-      <description>&lt;p&gt;I like to run profitable side businesses while working full time. Most people reading this blog got here from interactions with these businesses, or from twitter.&lt;/p&gt;
+      <description>&lt;p&gt;I like to build side projects while working full time. Most people reading this blog got here from interactions with them, or from twitter. None of them have gotten very far, but I learn a lot each time.&lt;/p&gt;
 &lt;h2 id=&#34;sudopoint-sudopointcomhttpssudopointcom&#34;&gt;Sudopoint (&lt;a href=&#34;https://sudopoint.com/&#34;&gt;sudopoint.com&lt;/a&gt;)&lt;/h2&gt;
-&lt;p&gt;Sudopoint is a web platform for generating test datasets, primarily for software testers and demo&amp;rsquo;ers. We provide a no-code platform where users can buy datasets or pay a monthly subscription.&lt;/p&gt;
+&lt;p&gt;Sudopoint is a web platform for generating test datasets, primarily for software testers and demo&amp;rsquo;ers. It provide a no-code platform where users can buy datasets or pay a monthly subscription.&lt;/p&gt;
 &lt;h2 id=&#34;getting-started-with-sql-newlinecohttpsnewlineco&#34;&gt;Getting Started with SQL (&lt;a href=&#34;https://newline.co&#34;&gt;newline.co&lt;/a&gt;)&lt;/h2&gt;
 &lt;p&gt;I&amp;rsquo;m writing a book on how to get started with PostgreSQL with Newline, a modern &amp;ldquo;O&amp;rsquo;Reilly like&amp;rdquo; publishing platform. As part of my book preparation, I taught a SQL class to the public in early 2021 and a Python class as part of &lt;a href=&#34;https://codeinplace.stanford.edu/&#34;&gt;Code in Place&lt;/a&gt;. I&amp;rsquo;m looking for more opportunities to teach SQL classes to folks in industry - if you&amp;rsquo;re interested, please get in touch!&lt;/p&gt;
 </description>
