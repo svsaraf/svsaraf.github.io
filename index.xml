@@ -5,146 +5,8 @@
     <description>Recent content in ssaraf on ssaraf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ssaraf.com/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Fractional Work</title>
-      <link>https://ssaraf.com/fractional-work/</link>
-      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://ssaraf.com/fractional-work/</guid>
-      <description>&lt;h1 id=&#34;motivation&#34;&gt;Motivation&lt;/h1&gt;
-&lt;p&gt;This file contains the outline for my book project of 2022. My previous book project of 2021 was a book about PostgreSQL, but I felt it was unsuccessful for a few reasons:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;I agreed to split the profits of the book 50 / 50 with a &amp;ldquo;self publisher&amp;rdquo; called Newline. And while Newline probably would have been helpful to write the book, they only help towards the tail end, once the book is actually written, with marketing, sales, cover design, etc. Since they like to use their branding for their books, it just didn&amp;rsquo;t feel like my own project the same way. I would have preferred to write a book more appealing to generalists / analysts rather than one focused on a technical subject, with branding controlled by me.&lt;/li&gt;
-&lt;li&gt;Technical books are really boring to write. I think I can put together pretty good prose - I can make jokes, etc. But I couldn&amp;rsquo;t find a way to inject my personality into the writing.&lt;/li&gt;
-&lt;li&gt;I started managing people at work, so wasn&amp;rsquo;t very much SQL day to day, like I used to.&lt;/li&gt;
-&lt;li&gt;I was embarrassed to talk about it with friends.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;The next book will resolve those problems the following ways:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;I will self publish via Gumroad / KDP&lt;/li&gt;
-&lt;li&gt;I&amp;rsquo;ll inject my personality into the book. In the spirit of Derek Sivers / Will Larsen, I will provide book chapters &amp;ldquo;serially&amp;rdquo; (that is, they&amp;rsquo;ll all be available online, and I&amp;rsquo;ll post one chapter at a time)&lt;/li&gt;
-&lt;li&gt;I no longer manage people.&lt;/li&gt;
-&lt;li&gt;I&amp;rsquo;m already talking about this subject with everyone I know.&lt;/li&gt;
-&lt;li&gt;Bonus: I&amp;rsquo;m thinking of starting a company in this direction.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;numbers&#34;&gt;Numbers&lt;/h1&gt;
-&lt;p&gt;Typical book length is 360 pages. Stephen King does 6 pages a day, roughly 200 words a page, so 1200 words a day. Others do up to 2k. If my velocity is 500 words a day (400 after edits), that translates to 2 pages, or 180 days (about 6 months). To get it done in 30 days (say, month of June before getting married), that would require 13 pages a day, or 2600 words a day. If I want to procrastinate, I write a blog post. So write every day, but depending on what you write the standard is different. My guess is the blog posts will really start getting out the door. Jeremy managed to write his book in 4 months, which translates to 120 days, which means 3 pages a day - half of Stephen King&amp;rsquo;s pace. Use Jeremy&amp;rsquo;s strategy of &amp;ldquo;vomit draft&amp;rdquo;. I think Gladwell books are much shorter - roughly 200 pages.&lt;/p&gt;
-&lt;h1 id=&#34;strategy&#34;&gt;Strategy&lt;/h1&gt;
-&lt;p&gt;Remember to use Ira Glass&amp;rsquo;s strategy - anecdote, then lesson, anecdote then lesson, anecdote then lesson, etc. That&amp;rsquo;s what makes a story interesting.&lt;/p&gt;
-&lt;h1 id=&#34;ideas-for-anecdotes&#34;&gt;Ideas for anecdotes&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Whoever originally negotiated the 40 hour week. Find their story - who were they, why did they need it, what motivated them?&lt;/li&gt;
-&lt;li&gt;Post WW2 CEO on why provide benfits to companies. Find their story - strugglig to hire talent, so infantlizing them by providing benefits instead of cash.&lt;/li&gt;
-&lt;li&gt;A modern day gig worker, who works several part time jobs to amke ends meet. How part time work is often used as a weapon against the lower class.&lt;/li&gt;
-&lt;li&gt;The ACTUAL study about utility in income. How much is lower vs higher? Why?&lt;/li&gt;
-&lt;li&gt;Daniel Vassallo - get an interview with him or with members of SPC? Small bets thesis and why it can work&lt;/li&gt;
-&lt;li&gt;A software engineer who successfully negotiated a 4 day work week.&lt;/li&gt;
-&lt;li&gt;A CEO who is against the 4 day work week and why&lt;/li&gt;
-&lt;li&gt;A scientist / psychologist about efficient work. Are we made for variety?&lt;/li&gt;
-&lt;li&gt;Why people live longer, another scientist story from other countries where the work week is more reasonable.&lt;/li&gt;
-&lt;li&gt;Stay at home moms, who get bored and want to work but either have to choose one or another&lt;/li&gt;
-&lt;li&gt;Original source on Keynesian work week&lt;/li&gt;
-&lt;li&gt;Rich people and how they pay to get time back - so why not pay your employer for extra time?&lt;/li&gt;
-&lt;li&gt;Anecdote relating to deconsolidation that Paul Graham talks about. Find the source, and write about that.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;outline---assume-5---10-page-chapters-one-chapter-a-day&#34;&gt;Outline - assume 5 - 10 page chapters. One chapter a day.&lt;/h1&gt;
-&lt;p&gt;Chapter 1&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Title&lt;/li&gt;
-&lt;li&gt;Anecdote&lt;/li&gt;
-&lt;li&gt;Lesson&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Chapter 2&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Title&lt;/li&gt;
-&lt;li&gt;Anecdote&lt;/li&gt;
-&lt;li&gt;Lesson&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Chapter 3&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Title&lt;/li&gt;
-&lt;li&gt;Anecdote&lt;/li&gt;
-&lt;li&gt;Lesson&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Chapter 4&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Title&lt;/li&gt;
-&lt;li&gt;Anecdote&lt;/li&gt;
-&lt;li&gt;Lesson&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Chapter 5&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Title&lt;/li&gt;
-&lt;li&gt;Anecdote&lt;/li&gt;
-&lt;li&gt;Lesson&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Chapter 6&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Title&lt;/li&gt;
-&lt;li&gt;Anecdote&lt;/li&gt;
-&lt;li&gt;Lesson&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Chapter 7&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Title&lt;/li&gt;
-&lt;li&gt;Anecdote&lt;/li&gt;
-&lt;li&gt;Lesson&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Chapter 8&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Title&lt;/li&gt;
-&lt;li&gt;Anecdote&lt;/li&gt;
-&lt;li&gt;Lesson&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Chapter 9&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Title&lt;/li&gt;
-&lt;li&gt;Anecdote&lt;/li&gt;
-&lt;li&gt;Lesson&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Chapter 10&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Title&lt;/li&gt;
-&lt;li&gt;Anecdote&lt;/li&gt;
-&lt;li&gt;Lesson&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Chapter 11&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Title&lt;/li&gt;
-&lt;li&gt;Anecdote&lt;/li&gt;
-&lt;li&gt;Lesson&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Chapter 12&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Title&lt;/li&gt;
-&lt;li&gt;Anecdote&lt;/li&gt;
-&lt;li&gt;Lesson&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Chapter 13&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Title&lt;/li&gt;
-&lt;li&gt;Anecdote&lt;/li&gt;
-&lt;li&gt;Lesson&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Chapter 14&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Title&lt;/li&gt;
-&lt;li&gt;Anecdote&lt;/li&gt;
-&lt;li&gt;Lesson&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Chapter 15&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Title&lt;/li&gt;
-&lt;li&gt;Anecdote&lt;/li&gt;
-&lt;li&gt;Lesson&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;cont&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Post Ideas</title>
@@ -168,6 +30,7 @@
 &lt;li&gt;Stints at companies are shrinking&lt;/li&gt;
 &lt;li&gt;Macgyver tricks I like&lt;/li&gt;
 &lt;li&gt;Markets are not efficient&lt;/li&gt;
+&lt;li&gt;Examples of where easy things make it more likely to do it&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;lessons-from-palantir&#34;&gt;Lessons from Palantir&lt;/h3&gt;
 &lt;ul&gt;
@@ -206,7 +69,7 @@
     <item>
       <title>Posts</title>
       <link>https://ssaraf.com/posts/</link>
-      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ssaraf.com/posts/</guid>
       <description></description>
