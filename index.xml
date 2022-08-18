@@ -9,6 +9,19 @@
     <atom:link href="https://ssaraf.com/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>About</title>
+      <link>https://ssaraf.com/about/</link>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/about/</guid>
+      <description>&lt;p&gt;I grew up in Lake Charles, Louisiana, studied at Stanford, and now work in the tech industry.&lt;/p&gt;
+&lt;p&gt;I started my career at &lt;a href=&#34;https://www.palantir.com&#34;&gt;Palantir&lt;/a&gt;, where I focused on healthcare and biotech customers. Now I work on the product team at &lt;a href=&#34;https://www.benchling.com&#34;&gt;Benchling&lt;/a&gt;, where I&amp;rsquo;ve spent time on our Insights, Machine Learning, Assays, Lab Automation, Search, and Warehouse products. I now work on our recent acquisition of Overwatch.&lt;/p&gt;
+&lt;p&gt;I also run a few side projects while working full time. I live in San Francisco, California.&lt;/p&gt;
+&lt;p&gt;Thanks for reading!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Post Ideas</title>
       <link>https://ssaraf.com/post-ideas/</link>
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
@@ -73,19 +86,6 @@
       
       <guid>https://ssaraf.com/posts/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://ssaraf.com/about/</link>
-      <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://ssaraf.com/about/</guid>
-      <description>&lt;p&gt;I grew up in Lake Charles, Louisiana, studied at Stanford, and now work in the tech industry.&lt;/p&gt;
-&lt;p&gt;I started my career at &lt;a href=&#34;https://www.palantir.com&#34;&gt;Palantir&lt;/a&gt;, where I focused on healthcare and biotech customers. Now I work on the product team at &lt;a href=&#34;https://www.benchling.com&#34;&gt;Benchling&lt;/a&gt;, where I spend time on our Insights, Machine Learning, Assays, Lab Automation, and Data Infrastructure products. I also run a few side projects while working full time.&lt;/p&gt;
-&lt;p&gt;In person I&amp;rsquo;m a big jokester, and love to laugh. I live in San Francisco, California.&lt;/p&gt;
-&lt;p&gt;Thanks for reading!&lt;/p&gt;
-</description>
     </item>
     
     <item>
