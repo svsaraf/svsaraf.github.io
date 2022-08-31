@@ -5,8 +5,17 @@
     <description>Recent content in ssaraf on ssaraf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Aug 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ssaraf.com/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Posts</title>
+      <link>https://ssaraf.com/posts/</link>
+      <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/posts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>About</title>
@@ -77,15 +86,6 @@
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://ssaraf.com/posts/</link>
-      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://ssaraf.com/posts/</guid>
-      <description></description>
     </item>
     
     <item>
