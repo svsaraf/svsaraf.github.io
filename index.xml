@@ -5,17 +5,8 @@
     <description>Recent content in ssaraf on ssaraf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ssaraf.com/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Posts</title>
-      <link>https://ssaraf.com/posts/</link>
-      <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://ssaraf.com/posts/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>About</title>
@@ -24,7 +15,7 @@
       
       <guid>https://ssaraf.com/about/</guid>
       <description>&lt;p&gt;I grew up in Lake Charles, Louisiana, studied at Stanford, and now work in the tech industry.&lt;/p&gt;
-&lt;p&gt;I started my career at &lt;a href=&#34;https://www.palantir.com&#34;&gt;Palantir&lt;/a&gt;, where I focused on healthcare and biotech customers. Now I work on the product team at &lt;a href=&#34;https://www.benchling.com&#34;&gt;Benchling&lt;/a&gt;, where I&amp;rsquo;ve spent time on our Insights, Machine Learning, Assays, Lab Automation, Search, and Warehouse products. I now work on our recent acquisition of Overwatch.&lt;/p&gt;
+&lt;p&gt;I started my career at &lt;a href=&#34;https://www.palantir.com&#34;&gt;Palantir&lt;/a&gt;, where I focused on healthcare and biotech customers. Now I work on the product team at &lt;a href=&#34;https://www.benchling.com&#34;&gt;Benchling&lt;/a&gt;, where I&amp;rsquo;ve spent time on our Insights, Machine Learning, Assays, Lab Automation, Search, and Warehouse products. I now work on Studies, a product and team we acquired in early 2022.&lt;/p&gt;
 &lt;p&gt;I also run a few side projects while working full time. I live in San Francisco, California.&lt;/p&gt;
 &lt;p&gt;Thanks for reading!&lt;/p&gt;
 </description>
@@ -89,16 +80,22 @@
     </item>
     
     <item>
+      <title>Posts</title>
+      <link>https://ssaraf.com/posts/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Products</title>
       <link>https://ssaraf.com/products/</link>
       <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ssaraf.com/products/</guid>
-      <description>&lt;p&gt;I like to build side projects while working full time. Most people reading this blog got here from interactions with them, or from twitter. None of them have gotten very far, but I learn a lot each time.&lt;/p&gt;
-&lt;h2 id=&#34;sudopoint-sudopointcomhttpssudopointcom&#34;&gt;Sudopoint (&lt;a href=&#34;https://sudopoint.com/&#34;&gt;sudopoint.com&lt;/a&gt;)&lt;/h2&gt;
-&lt;p&gt;Sudopoint is a web platform for generating test datasets, primarily for software testers and demo&amp;rsquo;ers. It provide a no-code platform where users can buy datasets or pay a monthly subscription.&lt;/p&gt;
-&lt;h2 id=&#34;getting-started-with-sql-newlinecohttpsnewlineco&#34;&gt;Getting Started with SQL (&lt;a href=&#34;https://newline.co&#34;&gt;newline.co&lt;/a&gt;)&lt;/h2&gt;
-&lt;p&gt;I&amp;rsquo;m writing a book on how to get started with PostgreSQL with Newline, a modern &amp;ldquo;O&amp;rsquo;Reilly like&amp;rdquo; publishing platform. As part of my book preparation, I taught a SQL class to the public in early 2021 and a Python class as part of &lt;a href=&#34;https://codeinplace.stanford.edu/&#34;&gt;Code in Place&lt;/a&gt;. I&amp;rsquo;m looking for more opportunities to teach SQL classes to folks in industry - if you&amp;rsquo;re interested, please get in touch!&lt;/p&gt;
+      <description>&lt;p&gt;I like to build side projects while working full time. Most people reading this blog got here from interactions with them, or from twitter.&lt;/p&gt;
+&lt;p&gt;You can read more of my writing at &lt;a href=&#34;http://fractional.work/&#34;&gt;fractional.work&lt;/a&gt;. My current side project is called &lt;a href=&#34;https://withpartly.com/&#34;&gt;Partly&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

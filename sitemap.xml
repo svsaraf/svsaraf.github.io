@@ -2,104 +2,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://ssaraf.com/categories/</loc>
-      
-      <lastmod>2022-08-31T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://ssaraf.com/categories/op-ed/</loc>
-      
-      <lastmod>2022-08-31T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://ssaraf.com/posts/</loc>
-      
-      <lastmod>2022-08-31T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://ssaraf.com/</loc>
-      
-      <lastmod>2022-08-31T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://ssaraf.com/tags/</loc>
-      
-      <lastmod>2022-08-31T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://ssaraf.com/ea/</loc>
-      
-      <lastmod>2022-08-31T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://ssaraf.com/tags/writing/</loc>
-      
-      <lastmod>2022-08-31T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
       <loc>https://ssaraf.com/about/</loc>
       
       <lastmod>2022-08-18T00:00:00+00:00</lastmod>
@@ -128,6 +30,34 @@
     </url>
   
     <url>
+      <loc>https://ssaraf.com/categories/</loc>
+      
+      <lastmod>2022-05-20T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://ssaraf.com/categories/op-ed/</loc>
+      
+      <lastmod>2022-05-20T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
       <loc>https://ssaraf.com/tags/palantir-lessons/</loc>
       
       <lastmod>2022-05-20T00:00:00+00:00</lastmod>
@@ -143,6 +73,62 @@
   
     <url>
       <loc>https://ssaraf.com/post-ideas/</loc>
+      
+      <lastmod>2022-05-20T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://ssaraf.com/posts/</loc>
+      
+      <lastmod>2022-05-20T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://ssaraf.com/</loc>
+      
+      <lastmod>2022-05-20T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://ssaraf.com/tags/</loc>
+      
+      <lastmod>2022-05-20T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://ssaraf.com/tags/writing/</loc>
       
       <lastmod>2022-05-20T00:00:00+00:00</lastmod>
       

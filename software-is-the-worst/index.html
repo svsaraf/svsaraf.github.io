@@ -86,6 +86,8 @@ Assumption: Software sucks. Here&rsquo;s something that engineers and 85 year ol
                 
                 <a class="menu-item" href="/posts/" title="">Writing</a>
                 
+                <a class="menu-item" href="/products/" title="">Products</a>
+                
                 <a href="javascript:void(0);" class="theme-switch"><i class="iconfont icon-sun"></i></a>&nbsp;
         </div>
     </div>
@@ -105,6 +107,8 @@ Assumption: Software sucks. Here&rsquo;s something that engineers and 85 year ol
                 <a class="menu-item" href="/about" title="">About</a>
                 
                 <a class="menu-item" href="/posts/" title="">Writing</a>
+                
+                <a class="menu-item" href="/products/" title="">Products</a>
                 
         </div>
     </div>
@@ -175,7 +179,7 @@ Assumption: Software sucks. Here&rsquo;s something that engineers and 85 year ol
 <p>The main problem is that the core skill set for building an application is usually different from deploying it. In Sudopoint&rsquo;s case, static assets (like CSS or JS) need to be served differently than the rest of the application, the production database is slightly different, environment variables are changed, etc. If I&rsquo;m at all representative of the general programming population, there are an order of magnitude more projects that work perfectly well sitting on my laptop, but I didn&rsquo;t bother to deploy to the world because of the pain / annoyance involved. As usual, these projects have now gone stale and it&rsquo;s unclear if they could ever be deployed, just a sunk cost of learning to build things.</p>
 <p>The only suggestion I have here is to start with a skeleton project that is known for being deployed easily to one of these services, and then rewrite / adjust your application to fit the template. An apt metaphor is removing an appendage because your coat doesn&rsquo;t have enough sleeves, but it&rsquo;s often easier to change what you understand than to try to change what you don&rsquo;t.</p>
 <h3 id="optimization">Optimization</h3>
-<p>When you first deploy your app, it&rsquo;s going to be slow. Not slow like the way gmail is slow, where it&rsquo;s obviously doing a whole bunch of stuff and your browser just can&rsquo;t keep up for a couple seconds. By slow I mean, you have a little &ldquo;Hello World' page with almost nothing in it, and it takes 15 seconds to load on your fiber connection.</p>
+<p>When you first deploy your app, it&rsquo;s going to be slow. Not slow like the way gmail is slow, where it&rsquo;s obviously doing a whole bunch of stuff and your browser just can&rsquo;t keep up for a couple seconds. By slow I mean, you have a little &ldquo;Hello World&rsquo; page with almost nothing in it, and it takes 15 seconds to load on your fiber connection.</p>
 <p>Most computer scientists understand Big O notation. It&rsquo;s how we measure what types of algorithms are likely to be slower than others. Unfortunately in matters of web applications (and indeed, for most applications today) Big O notation is not only useless, but <em>worse</em>, because by paying attention to it you&rsquo;ll optimize the wrong things, and as we know, <a href="https://wiki.c2.com/?PrematureOptimization">premature optimization</a> is the root of all evil.</p>
 <p>What do I mean? At Sudopoint, we were seeing slow load times, and the reason had <em>nothing</em> to do with the complexity of the computations we were doing, at least at the code level we were working at. Instead, in order, the problems were:</p>
 <ol>
@@ -258,7 +262,7 @@ Assumption: Software sucks. Here&rsquo;s something that engineers and 85 year ol
     <div class="copyright">
         &copy;
         
-        <span itemprop="copyrightYear">2022</span>
+        <span itemprop="copyrightYear">2023</span>
         
          
             <span class="author" itemprop="copyrightHolder"><a href="https://ssaraf.com">Sanjay Saraf</a> | </span>
