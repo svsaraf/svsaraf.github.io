@@ -16,9 +16,9 @@
     </url>
   
     <url>
-      <loc>https://ssaraf.com/categories/</loc>
+      <loc>https://ssaraf.com/post-ideas/</loc>
       
-      <lastmod>2022-06-06T00:00:00+00:00</lastmod>
+      <lastmod>2022-05-20T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -30,9 +30,9 @@
     </url>
   
     <url>
-      <loc>https://ssaraf.com/cheap/</loc>
+      <loc>https://ssaraf.com/categories/</loc>
       
-      <lastmod>2022-06-06T00:00:00+00:00</lastmod>
+      <lastmod>2020-08-31T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -46,7 +46,7 @@
     <url>
       <loc>https://ssaraf.com/categories/op-ed/</loc>
       
-      <lastmod>2022-06-06T00:00:00+00:00</lastmod>
+      <lastmod>2020-08-31T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -60,7 +60,7 @@
     <url>
       <loc>https://ssaraf.com/posts/</loc>
       
-      <lastmod>2022-06-06T00:00:00+00:00</lastmod>
+      <lastmod>2020-08-31T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -74,49 +74,7 @@
     <url>
       <loc>https://ssaraf.com/</loc>
       
-      <lastmod>2022-06-06T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://ssaraf.com/tags/</loc>
-      
-      <lastmod>2022-06-06T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://ssaraf.com/tags/writing/</loc>
-      
-      <lastmod>2022-06-06T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://ssaraf.com/post-ideas/</loc>
-      
-      <lastmod>2022-05-20T00:00:00+00:00</lastmod>
+      <lastmod>2020-08-31T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -156,49 +114,7 @@
     </url>
   
     <url>
-      <loc>https://ssaraf.com/tags/side-projects/</loc>
-      
-      <lastmod>2020-08-17T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://ssaraf.com/tags/sudopoint/</loc>
-      
-      <lastmod>2020-08-17T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
       <loc>https://ssaraf.com/holding_in_your_head/</loc>
-      
-      <lastmod>2018-09-20T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://ssaraf.com/tags/philosophy/</loc>
       
       <lastmod>2018-09-20T00:00:00+00:00</lastmod>
       
@@ -229,6 +145,18 @@
       <loc>https://ssaraf.com/products/</loc>
       
       <lastmod>2017-02-09T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://ssaraf.com/tags/</loc>
       
       
       <changefreq>monthly</changefreq>
