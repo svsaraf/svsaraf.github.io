@@ -6,10 +6,91 @@
     <description>Recent content in Op-ed on ssaraf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ssaraf.com/categories/op-ed/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Types of investor misbehavior</title>
+      <link>https://ssaraf.com/misbehavior/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssaraf.com/misbehavior/</guid>
+      <description>&lt;p&gt;I recently completed a pre-seed fundraise for Partly [1], and I thought I&amp;rsquo;d share some of the negative experiences I had with investors. Most people who fail to raise money can&amp;rsquo;t share all the horror stories - they don&amp;rsquo;t want to burn bridges. And people who raise money easily (i.e. if they already have traction, or are in a hot area) often don&amp;rsquo;t see as much misbehavior. It&amp;rsquo;s folks in the middle that often have the best view of things.&lt;/p&gt;
+&lt;p&gt;These are ordered based on most common to least common.&lt;/p&gt;
+&lt;h3 id=&#34;1-cold-outreach-by-associates-that-wastes-time&#34;&gt;1. Cold outreach by associates that wastes time.&lt;/h3&gt;
+&lt;p&gt;As soon as you change your job title, or when word gets out that you&amp;rsquo;ve left your job, associates at VC firms will reach out to you and ask to get coffee.&lt;/p&gt;
+&lt;p&gt;I was under the impression that getting coffee may not help much, but it probably wouldn&amp;rsquo;t hurt. I was wrong.&lt;/p&gt;
+&lt;p&gt;In several cases, an associate misinterpreted the business and then ruled the fund out from investing before I could formally pitch a partner. In other cases, we&amp;rsquo;d spend weeks in random scheduling / emailing that was not productive (did not move the needle on a deal, did not build a valuable relationship, did not get useful advice for the business, etc)&lt;/p&gt;
+&lt;h3 id=&#34;2-associates-lying&#34;&gt;2. Associates lying.&lt;/h3&gt;
+&lt;p&gt;Associates would regularly lie about a partner joining a meeting, about an investment committee happening where the deck would be reviewed, etc. I didn&amp;rsquo;t see as much outright dishonesty from partners&amp;hellip;I suspect because they have reputations to protect.&lt;/p&gt;
+&lt;h3 id=&#34;3-ghosting&#34;&gt;3. Ghosting&lt;/h3&gt;
+&lt;p&gt;An investor who has sub-hour response times in all communications before your pitch, will sometimes have more than two week response times after your pitch.&lt;/p&gt;
+&lt;p&gt;Investors seem to think this gives them &amp;ldquo;optionality&amp;rdquo; in case they change their mind in the future, but from my experience the ghosting investors are actually lower in my preference compared to the fast no&amp;rsquo;s I received. It is especially infuriating when you see an investor ramble on Twitter every day for weeks, and even see them open your email (via tracking pixel), but they still don&amp;rsquo;t close the loop.&lt;/p&gt;
+&lt;p&gt;Anecdotally, likelihood of ghosting goes up as quality of investor goes down. So this does not seem to be a function of being &amp;ldquo;too busy&amp;rdquo;. Sequoia and Benchmark (who both declined) were among the most responsive investors I talked to. Investors who ghosted tended to be at the bottom in terms of (publicly visible) quality.&lt;/p&gt;
+&lt;h3 id=&#34;4-asking-for-the-deck-over-email&#34;&gt;4. Asking for the deck over email&lt;/h3&gt;
+&lt;p&gt;Objectively, investors are more interested in investing if I present the deck vs if I send it cold. But many investors asked for the deck beforehand.&lt;/p&gt;
+&lt;p&gt;Practically speaking, that means that if an investor asks for the deck, I assume it&amp;rsquo;s more likely to be a no. If it&amp;rsquo;s a non-partner asking, it&amp;rsquo;s likely not worth doing the pitch.&lt;/p&gt;
+&lt;h3 id=&#34;5-the-friend-who-becomes-the-cross-examiner&#34;&gt;5. The friend who becomes the cross-examiner&lt;/h3&gt;
+&lt;p&gt;Some VCs are all kindness and smiles, then as soon as the deck is being screenshared, they become the prosecutor, interrupting with hostile questions, side rants, angry takes, etc. Basically, they start acting like assholes.&lt;/p&gt;
+&lt;p&gt;I think mediocre investors do this because it makes them seem intellectual and intimidating. But again, the smartest investors (by both objective and subjective measures) also tend to be the nicest. And if you&amp;rsquo;re running any sort of process at all, you compare the good conversations with the bad ones and can do the math.&lt;/p&gt;
+&lt;p&gt;The most generous interpretation of this is that VCs who neg founders during the pitch can get a better price during the deal discussion.&lt;/p&gt;
+&lt;h3 id=&#34;6-vc-titles-that-arent-what-they-say-they-are&#34;&gt;6. VC titles that aren&amp;rsquo;t what they say they are.&lt;/h3&gt;
+&lt;p&gt;At this point the secret is out about associates, so people who are associates &lt;em&gt;de facto&lt;/em&gt; often have titles like &amp;ldquo;principal&amp;rdquo; or &amp;ldquo;investor&amp;rdquo; or &amp;ldquo;venture partner&amp;rdquo; or &amp;ldquo;chief of staff&amp;rdquo; or even &amp;ldquo;partner&amp;rdquo; officially.&lt;/p&gt;
+&lt;p&gt;By definition, if you have a strong relationship to a firm, you know who is a partner and who isn&amp;rsquo;t.&lt;/p&gt;
+&lt;p&gt;But if you don&amp;rsquo;t have a strong relationship, it&amp;rsquo;s a guessing game. Sometimes the meeting is a waste of time or just a hoop to jump through.&lt;/p&gt;
+&lt;p&gt;There is no mechanism I could find, from first principles, to determine if the person you&amp;rsquo;re meeting with actually has decision-making authority.&lt;/p&gt;
+&lt;p&gt;The best way to determine who is who at a VC fund is to talk to a founder who has taken investment from them. Ideally two founders - one who failed and one who succeeded (the failed founder is a very good source of information about bad behavior - they see the worst of it).&lt;/p&gt;
+&lt;h3 id=&#34;7-investors-who-dont-lead&#34;&gt;7. Investors who don&amp;rsquo;t &amp;ldquo;lead&amp;rdquo;.&lt;/h3&gt;
+&lt;p&gt;There were many many investors who wanted to say yes conditional on someone else leading the round. It turns out that even when you do get a lead, these investors often convert to no.&lt;/p&gt;
+&lt;p&gt;So at least for me, this was less about signalling from the broader investor community and more that investors feel bad about saying no and want a way to save face.&lt;/p&gt;
+&lt;h3 id=&#34;8-investors-that-give-you-homework&#34;&gt;8. Investors that give you homework.&lt;/h3&gt;
+&lt;p&gt;Several investors wanted me to do a bunch more work - build a prototype, run order flow yourself for a while, build a spreadsheet to show the demand in the market, etc. All of this was work that needed to be done eventually, but in most cases, after you come back a few weeks later with the homework done, the investor either 1) gives you more homework or 2) says no to investing.&lt;/p&gt;
+&lt;p&gt;The homework also reduces your leverage in any negotiation. The investor knows you did the homework and, in the mean time, probably did not close the deal with another investor.&lt;/p&gt;
+&lt;p&gt;So I would advise, generally, not doing homework unless the investor is doing some too. For example, say yes for running order flow manually for a while, and ask for an intro to a portfolio founder. If your experience is like mine, they are much more eager for &lt;em&gt;you&lt;/em&gt; to do work than to do work on your behalf.&lt;/p&gt;
+&lt;h3 id=&#34;9-investors-that-offer-to-make-intros-but-then-dont-make-them&#34;&gt;9. Investors that offer to make intros but then don&amp;rsquo;t make them.&lt;/h3&gt;
+&lt;p&gt;Just to dig in more on the above point: some investors offer to make introductions to potential customers or potential hires.&lt;/p&gt;
+&lt;p&gt;In the vast majority of cases, these offers are fake - if you follow up afterwards they either won&amp;rsquo;t do it or they&amp;rsquo;ll take so long to do it that it will be useless to you.&lt;/p&gt;
+&lt;p&gt;You&amp;rsquo;d be better off assuming investors do no work on your behalf until they&amp;rsquo;ve actually given you a term sheet. And maybe not even then.&lt;/p&gt;
+&lt;h3 id=&#34;10-declining-investor-that-offers-to-intro-to-other-investors&#34;&gt;10. Declining investor that offers to intro to other investors.&lt;/h3&gt;
+&lt;p&gt;A majority of declining investors offered to intro me to others. But they know that such offers almost never convert. So you should refuse.&lt;/p&gt;
+&lt;p&gt;While at first I interpreted this cynically, I now interpret this as the investor &amp;ldquo;feeling bad&amp;rdquo; about saying no and trying to do anything to seem helpful, even if it&amp;rsquo;s actively unhelpful.&lt;/p&gt;
+&lt;h3 id=&#34;11-exploding-offers&#34;&gt;11. Exploding offers.&lt;/h3&gt;
+&lt;p&gt;Many investors give a relatively short expiration date on their offer. In some cases it&amp;rsquo;s minutes. In others it&amp;rsquo;s hours. Very few of them let you think about the offer for a week.&lt;/p&gt;
+&lt;p&gt;You need to be in a position to have multiple offers at the same time to have meaningful leverage.&lt;/p&gt;
+&lt;p&gt;This is one of the few misbehaviors that seems &lt;em&gt;not&lt;/em&gt; correlated with low investor quality. Practically everyone does this.&lt;/p&gt;
+&lt;p&gt;I assume it reduces the risk of the founder shopping the deal around, but in general I lost some respect for many famous names for this one. It is obvious why this happens: the investor is trying to get a low price by not letting an auction happen.&lt;/p&gt;
+&lt;h3 id=&#34;12-overselling-platform-help&#34;&gt;12. Overselling platform help&lt;/h3&gt;
+&lt;p&gt;Almost every VC will claim to provide unique value in terms of &amp;ldquo;platform capabilities&amp;rdquo; - recruiting, connections to customers, etc. These seem to be mostly overstated per every founder I talked to.&lt;/p&gt;
+&lt;p&gt;Most admitted that the main value of the VC was&amp;hellip;the money they provided.&lt;/p&gt;
+&lt;h3 id=&#34;13-asking-about-other-investors&#34;&gt;13. Asking about other investors&lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;ve had to push back quite strongly in cases where an investor hadn&amp;rsquo;t committed to giving a term sheet, but wanted to know who had committed already. I think a fair number of investors have built good funds by simply fast following or joining rounds with firms they like. But if it&amp;rsquo;s a firm they aren&amp;rsquo;t as familiar with, the answer still rounds to no.&lt;/p&gt;
+&lt;h3 id=&#34;lessons-learned&#34;&gt;Lessons learned:&lt;/h3&gt;
+&lt;p&gt;I think the main lesson learned from my preseed raise was probably an obvious one: investors are human. And once you understand their incentives, their behavior makes a kind of sense. They want to talk to as many companies as possible, stay in &amp;ldquo;holding mode&amp;rdquo; as long as possible, and then make concentrated bets on the few they think will return the fund. They want to have relationships in case they are wrong, so they can try to get a &amp;ldquo;second bite of the apple&amp;rdquo; in a future round.&lt;/p&gt;
+&lt;p&gt;For the investors reading this, here are the things you can do to make things easier for founders like me:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;I want to go from warm intro -&amp;gt; meeting with a decision maker -&amp;gt; answer in less than two weeks. Acceptable answers are &amp;ldquo;yes&amp;rdquo; or &amp;ldquo;no&amp;rdquo; (not maybe). I don&amp;rsquo;t fully understand how the market hasn&amp;rsquo;t forced this already. Doing diligence and backchanneling should not take long at the preseed stage. If a founder ends up pitching you, you owe them an email / text in response.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If you offer to do something, just do it. Don&amp;rsquo;t offer and then waffle. There were several cases where I would chase things down and end up wasting time.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Make sure your team is as good as you are. Be really clear about the process and hoops founders should go through with associates / others on your team. For example, in more than one case for me, an investor would add an EA, but the EA would not get the meeting scheduled.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;When I&amp;rsquo;m fundraising, I&amp;rsquo;m fundraising. I don&amp;rsquo;t have a ton of time for other stuff that isn&amp;rsquo;t critical to the business. That includes advising your portfolio companies.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The tier 1 investors I talked to were all really nice. I think kindness pays and word gets around. Portfolio founders would often recommend investors that treated them well&amp;hellip;people talk more than you think. There is more than one &amp;ldquo;top tier&amp;rdquo; investor who I didn&amp;rsquo;t even bother approaching, because I was warned away by friends who had taken money from them.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;As for future rounds, I remember the investors who meet all the criteria above (even if it was a decline) and have stayed in touch with them. I would say across the investors I talked to, less than 10% meet this bar.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;[1] Strictly speaking, this is via &lt;a href=&#34;https://www.ycombinator.com/documents&#34;&gt;SAFEs&lt;/a&gt;, so I will continue to take money via &lt;a href=&#34;https://www.paulgraham.com/hiresfund.html&#34;&gt;high resolution fundraising&lt;/a&gt;, and the round doesn&amp;rsquo;t really have a &amp;ldquo;close&amp;rdquo;.&lt;/p&gt;
+</description> 
+    </item>
     
     <item>
       <title>The Keynesian Workweek</title>
